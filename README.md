@@ -114,5 +114,5 @@ Coming soon! :)
 
 * [Java Rush](https://javarush.ru)
 
-* [Docker + Kubernetes](https://slurm.io/online)
+* [Slurm: Docker + Kubernetes](https://slurm.io/online)
 
