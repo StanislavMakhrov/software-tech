@@ -68,9 +68,13 @@
 ![](java.png)
 
 * [OpenJDK 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
+
 * [IntelliJ JetBrains IDEA Ultimate Edition (30 day trial)](https://www.jetbrains.com/ru-ru/idea/download)
+
 * [Курс Java Core от Алексея Владыкина](https://stepik.org/course/187/promo)
+
 * [Создание простого веб-приложения без БД и деления на слои](https://www.youtube.com/watch?v=jH17YkBTpI4)
+
 * [Spring Boot веб-приложение с нуля](https://java-master.com/spring-boot-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%BD%D1%83%D0%BB%D1%8F/)
 
 ## Docker
