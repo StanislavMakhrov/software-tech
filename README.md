@@ -6,15 +6,6 @@
 
 * [Материалы для самостоятельного изучения](trpo_lections.pdf)
 
-## Контроль версий и командная разработка
-
-![](team_dev.jpeg)
-
-* [Git и командная разработка ](https://habr.com/ru/post/440816/)
-* [Знакомство с Git и GitHub: руководство для начинающих](https://medium.com/nuances-of-programming/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-git-%D0%B8-github-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-54ea2567d76c)
-* [Git на практике](https://habr.com/ru/post/342116/)
-* [Git: советы новичкам](https://habr.com/ru/company/playrix/blog/345732/)
-
 ## Архитектура приложений
 
 ![](architecture.png)
@@ -132,6 +123,15 @@ Coming soon! :)
 * [DHCP](https://www.youtube.com/watch?v=XPRYaGCkXJ8)
 
 * [Ethernet](https://www.youtube.com/watch?v=jLGadArowCE)
+
+## Контроль версий и командная разработка
+
+![](team_dev.jpeg)
+
+* [Git и командная разработка ](https://habr.com/ru/post/440816/)
+* [Знакомство с Git и GitHub: руководство для начинающих](https://medium.com/nuances-of-programming/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-git-%D0%B8-github-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-54ea2567d76c)
+* [Git на практике](https://habr.com/ru/post/342116/)
+* [Git: советы новичкам](https://habr.com/ru/company/playrix/blog/345732/)
 
 ## Дополнительные курсы
 
