@@ -53,5 +53,5 @@
 
 [Java Rush](https://javarush.ru)
 
-[Docker + Kubernetes](https://slurm.io/online)
+[Docker + Kubernetes](https://slurm.io/online =250x)
 
