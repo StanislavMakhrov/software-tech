@@ -18,6 +18,8 @@
 
 * [RAID](https://ru.wikipedia.org/wiki/RAID)
 
+* [RAID. Видео](https://www.youtube.com/watch?v=7pU3edBVcYw)
+
 * [Многоуровневая архитектура](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
 
 * [Model-View-Controller](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
@@ -55,6 +57,28 @@
 ## Kubernetes
 
 ![](k8s.png)
+
+## Экскурс в сетевые технологии
+
+* [IP адрес](https://www.youtube.com/watch?v=6tFGoiok0u8)
+
+* [Маргрутизатор, коммутатор и хаб](https://www.youtube.com/watch?v=Bwg-om5NnmQ)
+
+* [VPN](https://www.youtube.com/watch?v=TNJxATppH4E)
+
+* [Модель OSI за 7 минут](https://www.youtube.com/watch?v=je0QFU7p5Oo)
+
+* [TCP и UDP](https://www.youtube.com/watch?v=yMSJKBQINAc&t=19s)
+
+* [Виды сетевых атак](https://www.youtube.com/watch?v=T_iycKFPGEM)
+
+* [LAN и WAN](https://www.youtube.com/watch?v=z6ppjg6xAbQ)
+
+* [DNS сервер](https://www.youtube.com/watch?v=t2NMbSarXC4&t=124s)
+
+* [DHCP](https://www.youtube.com/watch?v=XPRYaGCkXJ8)
+
+* [Ethernet](https://www.youtube.com/watch?v=jLGadArowCE)
 
 ## Дополнительные курсы
 
