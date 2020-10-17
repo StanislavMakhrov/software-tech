@@ -38,17 +38,17 @@
 
 Цикл статей по Docker:
 
-[Часть 1: основы](https://habr.com/post/438796/)
+* [Часть 1: основы](https://habr.com/post/438796/)
 
-[Часть 2: термины и концепции](https://habr.com/post/439978/)
+* [Часть 2: термины и концепции](https://habr.com/post/439978/)
 
-[Часть 3: файлы Dockerfile](https://habr.com/post/439980/)
+* [Часть 3: файлы Dockerfile](https://habr.com/post/439980/)
 
-[Часть 4: уменьшение размеров образов и ускорение их сборки](https://habr.com/post/440658/)
+* [Часть 4: уменьшение размеров образов и ускорение их сборки](https://habr.com/post/440658/)
 
-[Часть 5: команды](https://habr.com/post/440660/)
+* [Часть 5: команды](https://habr.com/post/440660/)
 
-[Часть 6: работа с данными](https://habr.com/post/441574/)
+* [Часть 6: работа с данными](https://habr.com/post/441574/)
 
 ## Kubernetes
 
