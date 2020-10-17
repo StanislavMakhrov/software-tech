@@ -110,6 +110,12 @@ Coming soon! :)
 
 * [Ethernet](https://www.youtube.com/watch?v=jLGadArowCE)
 
+## Контроль версий и командная разработка
+
+![](team_dev.jpeg)
+
+* [Git и командная разработка ](https://habr.com/ru/post/440816/)
+
 ## Разработка веб-приложения на Spring Boot (Java)
 
 ![](java.png)
