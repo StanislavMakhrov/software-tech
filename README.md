@@ -40,7 +40,7 @@
 
 [XML-технологии](http://www.duct-tape-architect.ru/?p=315)
 
-[API](https://habr.com/ru/post/464261/)
+[Что такое API?](https://habr.com/ru/post/464261/)
 
 [API видео](https://www.youtube.com/watch?v=QYg5z6EGOk4)
 
