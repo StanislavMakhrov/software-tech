@@ -4,6 +4,8 @@
 
 ## Архитектура приложений
 
+![](architecture.png)
+
 [Руководство Microsoft по проектированию архитектуры приложений](MS_Arch_Manual.pdf)
 
 [Клиент-серверная архитектура в картинках](https://habr.com/ru/post/495698/)
@@ -24,6 +26,8 @@
 
 ## Docker
 
+![](docker.png)
+
 [Docker. Презентация](Docker.pptx)
 
 [Официальный сайт Docker](https://www.docker.com/)
@@ -31,6 +35,19 @@
 [Docker Hub](https://hub.docker.com)
 
 [Самый простой, полный и понятный туториал Docker для новичков](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/)
+
+Цикл статей:
+
+[Часть 1: основы](https://habr.com/post/438796/)
+[Часть 2: термины и концепции](https://habr.com/post/439978/)
+[Часть 3: файлы Dockerfile](https://habr.com/post/439980/)
+[Часть 4: уменьшение размеров образов и ускорение их сборки](https://habr.com/post/440658/)
+[Часть 5: команды](https://habr.com/post/440660/)
+[Часть 6: работа с данными](https://habr.com/post/441574/)
+
+## Kubernetes
+
+![](k8s.png)
 
 ## Дополнительные курсы
 
