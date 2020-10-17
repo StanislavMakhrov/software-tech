@@ -28,7 +28,9 @@
 
 * [Балансировка нагрузки: основные алгоритмы и методы](https://habr.com/ru/company/selectel/blog/250201/)
 
-## XML, JSON, API, REST, SOAP 
+## XML, JSON, API, REST, SOAP
+
+![](api.png)
 
 [JSON vs XML. Сравнение технологий и области применения](https://itgap.ru/post/json-vs-xml-sravnenie-tekhnologij-i-oblasti-primeneniya)
 
