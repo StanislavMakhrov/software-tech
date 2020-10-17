@@ -30,30 +30,6 @@
 
 * [Балансировка нагрузки: основные алгоритмы и методы](https://habr.com/ru/company/selectel/blog/250201/)
 
-## XML, JSON, API, REST, SOAP
-
-![](api.png)
-
-[JSON vs XML. Сравнение технологий и области применения](https://itgap.ru/post/json-vs-xml-sravnenie-tekhnologij-i-oblasti-primeneniya)
-
-[Что такое XML и JSON. Их особенности](https://pointschool.ru/chto-takoe-xml-i-json-ih-osobennosti/)
-
-[XML-технологии](http://www.duct-tape-architect.ru/?p=315)
-
-[Что такое API?](https://habr.com/ru/post/464261/)
-
-[API видео](https://www.youtube.com/watch?v=QYg5z6EGOk4)
-
-[API Wikipedia](https://ru.wikipedia.org/wiki/API)
-
-[Web-сервисы и API](https://www.youtube.com/watch?v=QrISH_hUDtg)
-
-[REST и SOAP](https://www.intervolga.ru/blog/projects/relsy-veb-integratsii-rest-i-soap/)
-
-[REST, RESTful web service, API, SOAP… what’s the difference?](https://medium.com/@wkrzywiec/rest-restful-web-service-api-soap-whats-the-difference-4f101953d0bd)
-
-[REST API](https://www.youtube.com/watch?v=7mbNStvpad0)
-
 ## Docker
 
 ![](docker.png)
@@ -79,6 +55,30 @@
 * [Часть 5: команды](https://habr.com/post/440660/)
 
 * [Часть 6: работа с данными](https://habr.com/post/441574/)
+
+## XML, JSON, API, REST, SOAP
+
+![](api.png)
+
+[JSON vs XML. Сравнение технологий и области применения](https://itgap.ru/post/json-vs-xml-sravnenie-tekhnologij-i-oblasti-primeneniya)
+
+[Что такое XML и JSON. Их особенности](https://pointschool.ru/chto-takoe-xml-i-json-ih-osobennosti/)
+
+[XML-технологии](http://www.duct-tape-architect.ru/?p=315)
+
+[Что такое API?](https://habr.com/ru/post/464261/)
+
+[API видео](https://www.youtube.com/watch?v=QYg5z6EGOk4)
+
+[API Wikipedia](https://ru.wikipedia.org/wiki/API)
+
+[Web-сервисы и API](https://www.youtube.com/watch?v=QrISH_hUDtg)
+
+[REST и SOAP](https://www.intervolga.ru/blog/projects/relsy-veb-integratsii-rest-i-soap/)
+
+[REST, RESTful web service, API, SOAP… what’s the difference?](https://medium.com/@wkrzywiec/rest-restful-web-service-api-soap-whats-the-difference-4f101953d0bd)
+
+[REST API](https://www.youtube.com/watch?v=7mbNStvpad0)
 
 ## Разработка веб-приложения на Spring Boot (Java)
 
