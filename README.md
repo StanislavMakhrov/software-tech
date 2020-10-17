@@ -92,7 +92,7 @@ Coming soon! :)
 
 * [IP адрес](https://www.youtube.com/watch?v=6tFGoiok0u8)
 
-* [Маргрутизатор, коммутатор и хаб](https://www.youtube.com/watch?v=Bwg-om5NnmQ)
+* [Маршрутизатор, коммутатор и хаб](https://www.youtube.com/watch?v=Bwg-om5NnmQ)
 
 * [VPN](https://www.youtube.com/watch?v=TNJxATppH4E)
 
