@@ -1,6 +1,6 @@
 # Технологии разработки программного обеспечения
 
-* [Подготовительный курс. Теоректический минимум по Computer Science](Teoreticheskiy_minimum_po_Computer_Science.pdf)
+* [Подготовительный курс. Теоретический минимум по Computer Science](Teoreticheskiy_minimum_po_Computer_Science.pdf)
 
 * [Введение. Презентация](ТРПО.pptx)
 
