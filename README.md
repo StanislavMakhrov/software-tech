@@ -38,6 +38,8 @@
 
 [API](https://habr.com/ru/post/464261/)
 
+[API видео](https://www.youtube.com/watch?v=QYg5z6EGOk4)
+
 [API Wikipedia](https://ru.wikipedia.org/wiki/API)
 
 [Web-сервисы и API](https://www.youtube.com/watch?v=QrISH_hUDtg)
@@ -45,6 +47,8 @@
 [REST и SOAP](https://www.intervolga.ru/blog/projects/relsy-veb-integratsii-rest-i-soap/)
 
 [REST, RESTful web service, API, SOAP… what’s the difference?](https://medium.com/@wkrzywiec/rest-restful-web-service-api-soap-whats-the-difference-4f101953d0bd)
+
+[REST API](https://www.youtube.com/watch?v=7mbNStvpad0)
 
 ## Docker
 
