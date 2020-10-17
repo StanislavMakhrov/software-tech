@@ -47,7 +47,7 @@
 
 ## Kubernetes
 
-![](k8s.png){:height="50%" width="50%"}
+![](k8s.png)
 
 ## Дополнительные курсы
 
