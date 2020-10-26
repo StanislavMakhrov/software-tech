@@ -144,6 +144,10 @@
 
 * [Git: советы новичкам](https://habr.com/ru/company/playrix/blog/345732/)
 
+* [Как написать красивый и информативный README.md](https://nuancesprog.ru/p/7105/)
+
+* [Разметка README.md в GitHub](http://coddism.com/zametki/razmetka_readmemd_v_github)
+
 ## Дополнительные курсы
 
 * [Java Rush](https://javarush.ru)
