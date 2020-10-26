@@ -122,7 +122,15 @@
 
 ![](k8s.png)
 
-Coming soon! :)
+* [Что такое Kubernetes?](https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/)
+
+* [Компоненты Kubernetes](https://kubernetes.io/ru/docs/concepts/overview/components/)
+
+* [Изучение подов и узлов](https://kubernetes.io/ru/docs/tutorials/kubernetes-basics/explore/explore-intro/)
+
+* [Kubectl](https://kubernetes.io/ru/docs/reference/kubectl/overview/)
+
+* [Знакомство с Kubernetes](https://rtfm.co.ua/kubernetes-znakomstvo-chast-1-arxitektura-i-osnovnye-komponenty-obzor/)
 
 ## Контроль версий и командная разработка
 
@@ -141,4 +149,13 @@ Coming soon! :)
 * [Java Rush](https://javarush.ru)
 
 * [Slurm: Docker + Kubernetes](https://slurm.io/online)
+
+## Лабораторные работы
+
+* [Лабораторная работа №1. Лабораторная работа №1: создание микросервиса на Spring Boot с базой данных](MicroService.md)
+
+* [Лабораторная работа №2. Лабораторная работа №2: создание кластера Kubernetes и деплой приложения](Kubernetes.md)
+
+## Вопросы к зачету
+
 

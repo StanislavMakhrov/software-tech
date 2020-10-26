@@ -1,24 +1,49 @@
-# Лабораторная работа №2: создание кластера Kubernetes и деплой туда приложения
+# Лабораторная работа №2: создание кластера Kubernetes и деплой приложения
 
-## Развертывание локального кластера на Kubernetes с использованием MiniKube
+В данной лабораторной работе необходимо развернуть кластер Kubernetes на локальной рабочей станции посредством MiniKube.
 
-1. Установите MiniKube, выполник 1 и 2 шаг из инструкции https://minikube.sigs.k8s.io/docs/start/
-2. Установите kubectl https://kubernetes.io/ru/docs/tasks/tools/install-kubectl/
-3. Убедитесь, что kubectl работает и произведите осмотрите кластера:
+Целью лабораторной работы является знакомство с кластерной архитектурой на примере Kubernetes, а также деплоем приложения в кластер. 
+
+## Задание
+
+1. Развернуть локально кластер на Kubernetes с использованием MiniKube.
+
+2. Произвести деплой приложения в кластер. У приложения должны быть ендпоинты, соответствующие его предметной области, а также ендпоинт, где будет отображаться hostname.
+
+## Форма отчетности
+
+1. Сделать в github/gitlab Markdown-страницу, где указать:
+* Название дисциплины.
+* Название лабораторной работы.
+* ФИО и группу.
+* Цель лабораторной работы.
+* Манифесты deployment.yaml и service.yaml в тексте страницы.
+* Вывод команды с шага 3.3.
+* Скриншоты графического интерфейса с шага 3.5, где видны поды.
+
+## Инструкции к выполнению задания
+
+* [Запись лекции-вебинара по созданию кластера Kubernetes и деплою приложения]()
+
+### 1. Развертывание локального кластера на Kubernetes с использованием MiniKube
+
+1.1. Установите MiniKube, выполнить 1 и 2 шаг из инструкции https://minikube.sigs.k8s.io/docs/start/
+1.2. Установите kubectl https://kubernetes.io/ru/docs/tasks/tools/install-kubectl/
+1.3. Убедитесь, что kubectl работает и произведите осмотрите кластера:
 
         kubectl get node
         kubectl get po
         kubectl get po -A
         kubectl get svc
 
-4. Установите графический интерфейс Dashboard https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ - 
+1.4. Установите графический интерфейс Dashboard https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ - 
 необходимо выполнить шаги Deploying the Dashboard UI и Accessing the Dashboard UI. В последнем не забудьте кликнуть по ссылке creating a sample user и выполнить там инструкции.
 
-5. Кластер готов! Шпаргалка по командам: https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/
+1.5. Кластер готов! Шпаргалка по командам: https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/
 
-## Деплой приложения
+### 2. Деплой приложения
 
-1. Создать манифест Deployment и сохранить в файл, например deployment.yaml:
+2.1. Создать манифест Deployment и сохранить в файл, например deployment.yaml:
 
         apiVersion: apps/v1
         kind: Deployment
@@ -55,7 +80,7 @@
 
 Подробнее прочитать можно здесь: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
-2. Создать манифест Service и сохранить в файл, например deployment.yaml
+2.2. Создать манифест Service и сохранить в файл, например deployment.yaml
 
         apiVersion: v1
         kind: Service
@@ -84,7 +109,7 @@ Service может сопоставить любой входящий порт p
 
 Подрообнее прочитать можно здесь: https://kubernetes.io/ru/docs/tutorials/kubernetes-basics/expose/expose-intro/
 
-3. Решение проблемы с доступностью Registry с докер-образами.
+2.3. Решение проблемы с доступностью Registry с докер-образами.
 
 Для того, чтобы MiniKube видел образы docker, необходимо создавать docker-образы внутри MiniKube. Для обеспечения этого, выполните в консоли команду:
 
@@ -129,7 +154,7 @@ Service может сопоставить любой входящий порт p
                   ports:
                     - containerPort: 8080
                     
-4. Решение проблемы с обращением из MiniKube к приложениям, либо БД на localhost:
+2.4. Решение проблемы с обращением из MiniKube к приложениям, либо БД на localhost:
 
 Узнайте на какой адрес шлет запросы MiniKube для доступа к localhost. Для этого зайдите в ~/.kube/config и посмотрите там адрес кластера.
 Например, в файле может быть указано следующее:
@@ -187,23 +212,47 @@ Service может сопоставить любой входящий порт p
                 hostnames:
                 - postgres.local
 
-5. Манифесты deployment.yaml и service.yaml лучше всего сохранить в одной папке, где не будет ничего лишнего и потом выполнить команду для их применения:
+2.5. Манифесты deployment.yaml и service.yaml лучше всего сохранить в одной папке, где не будет ничего лишнего и потом выполнить команду для их применения:
 
         kubectl apply -f .
         
-6. После выполнения проверить статус подов:
+2.6. После выполнения проверить статус подов:
 
         kubectl get po
         NAME                             READY   STATUS    RESTARTS   AGE
         my-deployment-7c8c985d48-87p4s   1/1     Running   1          12h
         my-deployment-7c8c985d48-z7zbq   1/1     Running   1          12h
         
-7. Посмотреть логи конкретного пода:
+2.7. Посмотреть логи конкретного пода:
 
         kubectl logs my-deployment-7c8c985d48-87p4s
 
-8. Попробовать обратиться к приложения в MiniKube:
+2.8. Попробовать обратиться к приложению в MiniKube:
 
         http://192.168.49.2:31317/api/v1/status
 
 где 192.168.49.2 - адрес MiniKube, который мы ранее смотрели в ~/.kube/config.
+
+2.9. Попробовать обратиться к существующим ендпоинтам приложения.
+
+### 3. Увеличение количества реплик до 10 и проверка отображение hostname.
+
+3.1. В манифесте deployment.yaml изменить количество реплик до 10:
+
+spec.replicas: 10
+
+3.2. Применить изменения:
+
+        kubectl apply -f deployment.yaml
+
+3.3. После выполнения проверить количество подов с помощью команды:
+
+        kubectl get po
+        
+3.4. Попробовать обращаться множество раз к ендпоинту, где отображается hostname http://192.168.49.2:31317/api/v1/status и наблюдать как он меняется - в зависимости от пода, куда балансировщик распределил запрос.
+
+3.5. Произвести осмотр подов в графическом интерфейсе:
+
+http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
+
+Не забудьте, что должна быть активирована прокси с шага 1.4, где устанавливали dashboard с UI.
