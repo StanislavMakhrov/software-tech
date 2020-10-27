@@ -4,6 +4,14 @@
 
 * [Введение. Презентация](ТРПО.pptx)
 
+* [Scrum](https://www.youtube.com/watch?v=mockcEwNBbs)
+
+* [Жизненный цикл разработки ПО](https://www.youtube.com/watch?v=qg1GF7gsSNo)
+
+* [Чистый код](https://www.youtube.com/watch?v=XT6XkIJIVbA)
+
+* [Принципы SOLID](https://www.youtube.com/watch?v=A6wEkG4B38E)
+
 * [Материалы для самостоятельного изучения](trpo_lections.pdf)
 
 ## Архитектура приложений
@@ -147,6 +155,12 @@
 * [Как написать красивый и информативный README.md](https://nuancesprog.ru/p/7105/)
 
 * [Разметка README.md в GitHub](http://coddism.com/zametki/razmetka_readmemd_v_github)
+
+## CI/CD и DevOps-практики
+
+![](devops.png)
+
+* [CI/CD](https://www.youtube.com/watch?v=7S1ndRRht6M)
 
 ## Дополнительные курсы
 
