@@ -162,6 +162,16 @@
 
 * [CI/CD](https://www.youtube.com/watch?v=7S1ndRRht6M)
 
+* [Что такое Travis CI?](https://habr.com/ru/post/140344/)
+
+* [Travis CI](https://travis-ci.org/)
+
+* [Heroku vs Kubernetes](https://www.fairwinds.com/blog/heroku-vs.-kubernetes-the-big-differences-you-should-know)
+
+* [Heroku](https://www.heroku.com/)
+
+* [Heroku + Docker + Spring Boot](https://habr.com/ru/post/459472/)
+
 ## Дополнительные курсы
 
 * [Java Rush](https://javarush.ru)
