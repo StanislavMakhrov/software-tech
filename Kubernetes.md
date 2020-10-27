@@ -28,7 +28,9 @@
 ### 1. Развертывание локального кластера на Kubernetes с использованием MiniKube
 
 1.1. Установите MiniKube, выполнить 1 и 2 шаг из инструкции https://minikube.sigs.k8s.io/docs/start/
+
 1.2. Установите kubectl https://kubernetes.io/ru/docs/tasks/tools/install-kubectl/
+
 1.3. Убедитесь, что kubectl работает и произведите осмотрите кластера:
 
         kubectl get node
