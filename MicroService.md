@@ -37,4 +37,4 @@
 
 ## Инструкции к выполнению задания
 
-* [Запись лекции-вебинара по созданию микросервиса на Spring Boot]()
+* [Запись лекции-вебинара по созданию микросервиса на Spring Boot](https://drive.google.com/file/d/1IBv_tjgYhsUVN45gSckis4YjAjFURHMS/view?usp=sharing)
