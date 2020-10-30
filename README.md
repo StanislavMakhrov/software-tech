@@ -172,6 +172,10 @@
 
 * [Heroku + Docker + Spring Boot](https://habr.com/ru/post/459472/)
 
+* [Deploy Springboot application with Travis and Heroku](https://medium.com/weekly-webtips/your-next-dockerized-spring-boot-application-with-travis-and-heroku-83800b3a3ad8)
+
+* [CI/CD for SpringBoot applications using Travis-CI](https://www.javacodegeeks.com/2018/01/ci-cd-springboot-applications-using-travis-ci.html)
+
 ## Дополнительные курсы
 
 * [Java Rush](https://javarush.ru)
