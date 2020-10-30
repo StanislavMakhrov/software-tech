@@ -162,6 +162,8 @@
 
 * [CI/CD](https://www.youtube.com/watch?v=7S1ndRRht6M)
 
+* [Непрерывная интеграция: CircleCI vs Travis CI vs Jenkins](https://habr.com/ru/company/southbridge/blog/332836/)
+
 * [Что такое Travis CI?](https://habr.com/ru/post/140344/)
 
 * [Travis CI](https://travis-ci.org/)
