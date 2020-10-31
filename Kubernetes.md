@@ -211,7 +211,7 @@ Service может сопоставить любой входящий порт p
                   ports:
                     - containerPort: 8080
               hostAliases:
-              - ip: "192.168.49.1" # The IP of your VM
+              - ip: "192.168.49.1" # The IP of your VM, not MiniKube
                 hostnames:
                 - postgres.local
 
