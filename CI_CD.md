@@ -123,4 +123,4 @@ DOCKER_PASS="ваш зашифрованный пароль в DockerHUB"
 
 14. Убедитесь, что ендпоинты вашего приложения доступны по адресу: https://имя_приложения.herokuapp.com/api/v1/
 
-* [Запись лекции-вебинара по CI/CD и деплою приложения в Heroku]()
+* [Запись лекции-вебинара по CI/CD и деплою приложения в Heroku](https://drive.google.com/file/d/19PBW9EVw_1WG2PX9-rH6Pv00nhkSSBRY/view?usp=sharing)
